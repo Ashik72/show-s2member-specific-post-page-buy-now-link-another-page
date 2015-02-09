@@ -1,6 +1,6 @@
 There are other ways to generate specific post page buy url. Specially using the class c_ws_plugin__s2member_sp_access. However, this will generate only link and won't check payment status. 
 
-So what I did here is little different.
+So what I did here is little different. Thanks s2Member team for this kb article  - thanks for the kb article http://www.s2member.com/kb/building-an-api-notification-handler/
 
 First of all, a notification url like this need to be setup at s2Member > API/Notifications (under Specific Post/Page ~ Sale Notifications) -> http://site.com/?s2_payment_notification=yes&access=%%sp_access_url%%&ip=%%user_ip%%
 
